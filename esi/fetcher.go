@@ -36,11 +36,11 @@ var SpecialRegions = []struct {
 }{
   {
     // regionID: 10000061
-    name:    "UALX-3"
+    name:    "UALX-3",
     systems: []int64{30004807},
   }, {
       // regionID: 10000060
-    name:    "1DQ1-A"
+    name:    "1DQ1-A",
     systems: []int64{30004759},
   }, {
 	{
