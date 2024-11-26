@@ -70,7 +70,7 @@ var SpecialRegions = []struct {
 		name:    "rens",
 		systems: []int64{30002510, 30002526},
 	},
-},
+}
 // PriceFetcher fetches prices and populates the given priceDB
 type PriceFetcher struct {
 	db      evepraisal.PriceDB
