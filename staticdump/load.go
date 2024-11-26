@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/evepraisal/go-evepraisal/typedb"
+	"github.com/steveth3piirate/stevepraisal/typedb"
 	"github.com/sethgrid/pester"
 )
 

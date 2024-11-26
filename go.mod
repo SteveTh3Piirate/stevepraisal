@@ -1,4 +1,4 @@
-module github.com/evepraisal/go-evepraisal
+module github.com/steveth3piirate/stevepraisal
 
 go 1.19
 
